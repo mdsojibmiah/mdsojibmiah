@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Md. Sajib Miah
-#### Web Developer & Software Developer
-![Web Developer & Software Developer](https://i.imghippo.com/files/Iapt61726407632.png)
+#### Front End Developer & Software Engineer
+![Web Developer & Software Developer](https://i.imghippo.com/files/5HZv21726408736.png)
 
 ### Skills: HTML / CSS / JAVASCRIPT / JAVA / C / C++ / C# / PYTHON / DART / FLUTTER
 
 - 🔭 I’m currently working on Wev & Apps Developer & Software Developer 
-- 🌱 I’m currently learning Java , C#, C++, 
-- 👯 I’m looking to collaborate on Github 
+- 🌱 I’m currently learning Java, C#, C++, 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web & Apps Developer & Software Developer 
 
 
