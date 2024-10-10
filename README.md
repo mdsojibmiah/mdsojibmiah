@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Md. Sajib Miah
-#### 💻 Front-End Developer | 🏆 Competitive Programmer
-![💻 Front-End Developer | 🏆 Competitive Programmer](https://i.imghippo.com/files/2GJt91728533781.png)
+#### 💻 Front-End Developer | 🏆 Competitive Programmer 
+### 🌐 Passionate about building responsive, user-friendly web apps with HTML, CSS, JavaScript, React.
+### ⚡ Skilled in  HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, C, C++, C#, Java and Python, 
+### ⚡ Enthusiastic about solving coding challenges on LeetCode and Codeforces.
+### 🚀 Always exploring new tech and improving my problem-solving skills!
+![💻 Front-End Developer | 🏆 Competitive Programmer ](https://i.imghippo.com/files/2GJt91728533781.png)
 
 ### Skills: HTML / CSS / JAVASCRIPT / JAVA / C / C++ / C# / PYTHON / DART / FLUTTER
 
