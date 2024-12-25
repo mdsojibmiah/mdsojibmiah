@@ -23,7 +23,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsojibmiah)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsojibmiah&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdsojibmiah)  
-
-![Profile views](https://gpvc.arturio.dev/mdsojibmiah)  
