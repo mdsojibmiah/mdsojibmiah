@@ -50,7 +50,7 @@
 ---
 
 ### 🏆 Competitive Programming  
-- Solving challenges on [LeetCode](https://leetcode.com/CodeWithError) & [Codeforces](https://codeforces.com/CodeWithError)
+- Solving challenges on [LeetCode](https://leetcode.com/u/CodeWithError/) & [Codeforces](https://codeforces.com/profile/CodeWithError)
 
 ---
 
