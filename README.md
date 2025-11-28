@@ -12,7 +12,7 @@
 - 🔭 I’m currently working as a **Web & App Developer** and **Software Developer**  
 - 🌱 I’m currently learning **Java, C#, C++**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **Web Development**, **App Development**, and **Software Engineering**  
+- 💬 Ask me about **Web Development**, **App Development**, and **Software Engineering-**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-sajib-miah-b70628222/)  
 - 🧠 Always exploring new tech and improving my problem-solving skills!
 
